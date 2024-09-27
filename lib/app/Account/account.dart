@@ -15,9 +15,6 @@ import 'package:candian_cart/utils/drawer/app_drawer.dart';
 import '../../../../routes/app_pages.dart';
 
 class Account extends StatelessWidget {
-
-
-  
   Account({super.key});
   final Accountcontroller controller = Accountcontroller();
   final LanguageService languageService = Get.find();
@@ -28,6 +25,7 @@ class Account extends StatelessWidget {
 
     return Scaffold(
       key: scaffoldKey,
+
       drawer: AppDrawer(),
       bottomNavigationBar: BottomNavigation(),
       appBar: AppBar(
