@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.972" height="21.648" viewBox="0 0 18.972 21.648">
+  <g id="Notification" transform="translate(-8.25 -7.25)">
+    <g id="Icon_-_Bell" data-name="Icon - Bell" transform="translate(9 8)">
+      <path id="Vector" d="M8.783,0A7.281,7.281,0,0,1,14.4,2.655a5.549,5.549,0,0,1,1.228,3.788v.431a3.9,3.9,0,0,0,1.092,2.882,3.364,3.364,0,0,1,.751,2.337,3.621,3.621,0,0,1-.887,2.405A4.692,4.692,0,0,1,13.6,15.927c-1.615.135-3.231.25-4.868.25a43.487,43.487,0,0,1-4.868-.25A4.687,4.687,0,0,1,.888,14.5,3.622,3.622,0,0,1,0,12.093,3.369,3.369,0,0,1,.751,9.756,3.807,3.807,0,0,0,1.844,6.874V6.443a5.635,5.635,0,0,1,1.319-3.9A7.318,7.318,0,0,1,8.691,0Z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M5.987,0a1.571,1.571,0,0,1-.714,1.188,3.767,3.767,0,0,1-1.761.74,3.961,3.961,0,0,1-1.036,0A3.749,3.749,0,0,1,.715,1.187,1.566,1.566,0,0,1,0,0" transform="translate(5.743 18.187)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <g id="Vector-3" data-name="Vector" transform="translate(19 7.779)" fill="#ee6464" stroke="#fff" stroke-width="1">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="3" fill="none"/>
+    </g>
+  </g>
+</svg>
